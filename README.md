@@ -21,6 +21,7 @@ Descrição em desenvolvimento...
 ---
 
 ## 📦 **Dependências**
+- Flask
 
 ---
 

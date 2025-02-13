@@ -1,4 +1,4 @@
-# 🟢 \*\*\*\* 🟢
+#  Docker Studies
 
 ## 📜 **Descrição**
 
@@ -15,6 +15,7 @@ Descrição em desenvolvimento...
 ## 💻 **Tecnologias Utilizadas**
 
 - **Node JS** (v17.0.5)
+- **PHP** (v8.0.0)
 
 ---
 
@@ -29,7 +30,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/iaugustoz/DOcker-studies/
+git clone https://github.com/iaugustoz/docker-studies
 ```
 
 2. **Navegue até o diretório do projeto:**
@@ -38,9 +39,7 @@ git clone https://github.com/iaugustoz/DOcker-studies/
 cd docker-studies
 ```
 
-3. **Instale as dependências no Maven**
-
-4. **Inicie o projeto**
+3. **Inicie o projeto**
 
 ---
 

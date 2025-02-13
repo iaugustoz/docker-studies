@@ -16,6 +16,7 @@ Descrição em desenvolvimento...
 
 - **Node JS** (v17.0.5)
 - **PHP** (v8.0.0)
+- **Python** v(3.0.0)
 
 ---
 
